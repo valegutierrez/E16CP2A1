@@ -1,4 +1,4 @@
-# Actividad 30 - Postgresql Avanzado
+# Actividad 32 - Postgresql Avanzado
 
 #### En esta actividad trabajaremos con las diferentes queries desde el terminal de postgres.
 #### Para desarrollar esta actividad, tendrán que anotar cada una de las queries que utilizaron en un archivo **txt** y subir los archivos comprimidos (zip) a la plataforma.
