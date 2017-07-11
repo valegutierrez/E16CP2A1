@@ -1,4 +1,4 @@
-# Actividad 32 - Postgresql Avanzado
+# Actividad 30 - Postgresql Avanzado
 
 #### En esta actividad trabajaremos con las diferentes queries desde el terminal de postgres.
 #### Para desarrollar esta actividad, tendrán que anotar cada una de las queries que utilizaron en un archivo **txt** y subir los archivos comprimidos (zip) a la plataforma.
@@ -16,7 +16,7 @@
 
 
 #### Crear base de datos en base a los requerimientos indicados.
- 
+
 ## Checkpoints
 1. **Antes de empezar a crear la base de datos deben leer todas las instrucciones, modelar la base y generar un diagrama que tendrán que adjuntar a las respuestas de este ejecticio.**
 2. Ingresar 2 imagenes por usuario.
@@ -25,4 +25,4 @@
 5. Ingresar 3 tags por imagen.
 6. Crear una consulta que muestre el nombre de la imagen y la cantidad de likes que tiene esa imagen.
 7. Crear una consulta que muestre el nombre del usuario y los nombres de las fotos que le pertenecen.
-8. Crear una consulta que muestre el nombre del tag y la cantidad de imagenes asociadas a ese tag. 
+8. Crear una consulta que muestre el nombre del tag y la cantidad de imagenes asociadas a ese tag.
